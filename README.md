@@ -1,5 +1,5 @@
 # Weather Forecast App
-
+Live Link: https://weatherappbyarijit.netlify.app/
 This is a simple React application that fetches weather forecast data from the OpenWeatherMap API and displays it to the user. Users can search for weather forecasts by city name or latitude and longitude coordinates.
 
 ## Features
